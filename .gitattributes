@@ -1,0 +1,6 @@
+utils filter=lfs diff=lfs merge=lfs -text
+PE_MV_DCFCM.m filter=lfs diff=lfs merge=lfs -text
+data filter=lfs diff=lfs merge=lfs -text
+matlab_code.zip filter=lfs diff=lfs merge=lfs -text
+test_main.m filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
